@@ -1,4 +1,4 @@
-# Abhishek Singh - Data Analyst & Research Enthusiast
+# Abhishek Singh - Data Analyst
 
 ## About Me
 Hi! I'm Abhishek Singh, a passionate Research Analyst skilled in transforming raw data into actionable insights. I specialize in data analysis, visualization, and business intelligence.
