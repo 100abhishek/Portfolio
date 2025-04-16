@@ -12,7 +12,7 @@ Hi! I'm Abhishek Singh, a passionate Research Analyst skilled in transforming ra
 
 ## Projects
 - **[Resume Ranker AI](https://github.com/100abhishek/Resume_Ranker_AI)**: ResumeRanker AI matches resumes to job descriptions using Sentence Transformers, streamlining resume screening for recruiters and job seekers
-- - **[PeopleCraftAPI](https://github.com/100abhishek/PeopleCraftAPI)**: Extract Google Contacts with Python via Google People API and export to Excel and Google Sheets for backups or CRM use.
+ - **[PeopleCraftAPI](https://github.com/100abhishek/PeopleCraftAPI)**: Extract Google Contacts with Python via Google People API and export to Excel and Google Sheets for backups or CRM use.
 - **[Digital Payments Analysis](https://github.com/100abhishek/Digital-Payments-Performance-Analysis)**: SQL-based insights for 100K+ transactions.
 - **[Blinkit Sales Dashboard](https://github.com/100abhishek/Blinkit-Sales-Performance-Dashboard)**: Interactive Power BI sales performance dashboard.
 
